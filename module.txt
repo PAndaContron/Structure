@@ -1,0 +1,9 @@
+{
+    "id" : "Structure",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "Structure",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
